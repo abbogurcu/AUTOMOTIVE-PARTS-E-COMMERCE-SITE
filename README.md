@@ -1,1 +1,2 @@
 # AUTOMOTIVE-PARTS-E-COMMERCE-SITE
+This software program contains the categories that the person adds to the system and the edit of these categories, and then the edit of the products to be added in these categories. As both registered users and guests, adding their selected products in baskets and purchasing products from the site. The site users can edit their personal information, password and address information; on the administrator side, an e-commerce site where orders can be followed, ordered products can be approved and cargo information can be entered.
